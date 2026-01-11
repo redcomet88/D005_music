@@ -1,6 +1,6 @@
-# D005_music vue+django音乐推荐大数据|推荐算法|多权限| 可视化|完整源码
+# D005 vue+django音乐推荐大数据|推荐算法|多权限| 可视化|完整源码
 
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 up主B站：  **麦麦大数据**
